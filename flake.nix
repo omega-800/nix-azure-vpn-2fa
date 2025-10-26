@@ -1,5 +1,5 @@
 {
-  description = "azure-vpn-2fa";
+  description = "nix-azure-vpn-2fa";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";

@@ -1,4 +1,4 @@
-# azure-vpn-2fa
+# nix-azure-vpn-2fa
 
 This repo shows how to set up an AnyConnect vpn client to connect to Azure AD vpn servers.    
 
